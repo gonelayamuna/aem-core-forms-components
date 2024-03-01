@@ -6,3 +6,4 @@ testing slave branch
 testing with branch deletion
 Testing from source repo
 testing from 'slave' branch
+testing push 10

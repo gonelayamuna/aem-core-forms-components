@@ -4,3 +4,4 @@ Testing push3
 Testing push4
 testing slave branch
 testing with branch deletion
+Testing from source repo
